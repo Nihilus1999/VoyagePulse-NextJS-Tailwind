@@ -25,7 +25,6 @@ Una vez iniciado, la aplicación estará disponible en:
 - React Hook Form
 - Zod (validación de formularios)
 - Lucide Icons (íconos)
-- ESLint + Prettier (formato y buenas prácticas)
 
 ---
 
