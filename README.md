@@ -11,7 +11,7 @@ Para instalar los paquetes, se debe ejecutar el siguiente comando:
 
 
 ```
-npm run frontend
+npm install
 ```
 
 El proyecto cuenta con un script personalizado para iniciar el entorno de desarrollo del frontend:
