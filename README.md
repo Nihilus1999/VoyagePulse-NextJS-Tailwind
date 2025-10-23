@@ -7,6 +7,13 @@ Permite recopilar opiniones reales sobre experiencias turísticas, identificando
 
 # 🚀 Ejecución del frontend
 
+Para instalar los paquetes, se debe ejecutar el siguiente comando:
+
+
+```
+npm run frontend
+```
+
 El proyecto cuenta con un script personalizado para iniciar el entorno de desarrollo del frontend:
 
 ```
@@ -26,8 +33,6 @@ Una vez iniciado, la aplicación estará disponible en:
 - React Hook Form
 - Zod (validación de formularios)
 - Lucide Icons (íconos)
-
----
 
 ## ⚙️ Variables de entorno
 
