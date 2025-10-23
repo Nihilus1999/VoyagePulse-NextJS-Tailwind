@@ -9,8 +9,9 @@ Permite recopilar opiniones reales sobre experiencias turísticas, identificando
 
 El proyecto cuenta con un script personalizado para iniciar el entorno de desarrollo del frontend:
 
+```
 npm run frontend
-
+```
 
 Este comando ejecuta el servidor de Next.js en modo desarrollo con todas las herramientas de depuración activas.
 Una vez iniciado, la aplicación estará disponible en:
