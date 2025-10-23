@@ -78,12 +78,12 @@ export default function RootLayout({
               </h3>
               <ul className="space-y-1 text-sm">
                 <li>
-                  <a href="#" className="hover:text-white">
+                  <a href="https://www.instagram.com/nihilus1999/" className="hover:text-white">
                     Instagram
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white">
+                  <a href="https://www.linkedin.com/in/jose-el-asmar-3756501a2/" className="hover:text-white">
                     LinkedIn
                   </a>
                 </li>
